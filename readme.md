@@ -5,10 +5,9 @@ Yes it's my same old poker-dice game you've all seen on many platforms.
 Now, its back on my newly updated Surface framework!
 
 Once again:
-  - Only two files -- index.html + a vannilla JS bundle
   - One DOM element
   - Ultra-fine-grained reactivity!
-  - Zero dependencies -- none - nada
+  - Zero external dependencies -- none - nada
 
 ## Usage:
 ```
