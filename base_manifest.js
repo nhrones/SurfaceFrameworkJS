@@ -1,3 +1,5 @@
+// DO NOT EDIT.
+// This file is automatically updated during development when running `dev.js`.
 
 import * as $0 from "./views/Button.js"
 import * as $1 from "./views/CheckBox.js";
