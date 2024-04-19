@@ -1,15 +1,16 @@
 {
-   "simple": {
-      "DEV": true,
-      "Port": 80,
-      "Serve": "./Docs/"
-   },
-   "build": {
-      "BundleName": "surfaceFramework.js",
-      "Entry": [
-         "./mod.js"
-      ],
-      "Minify": false,
-      "Out": "./Docs/"
-   }
+    "simple": {
+        "DEV": true,
+        "Port": 80,
+        "Serve": "./dice/"
+    },
+    "Build": {
+        "DEV": true,
+        "Entry": [
+            "./mod.ts"
+        ],
+        "Minify": false,
+        "Out": "dice",
+        "BundleName": "ZsurfaceFramework"
+    }
 }
